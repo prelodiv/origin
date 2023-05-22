@@ -1,1 +1,6 @@
 qwe
+
+rueben poniendo
+git branch -M main
+y después git push -u origin main
+para este error : error: failed to push some refs
